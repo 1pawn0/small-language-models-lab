@@ -209,5 +209,7 @@ __marimo__/
 
 
 .idea/
-gemma-3-270m-*/
+data/
+gemma-3-*/
+roberta-large-*/
 *.safetensors
